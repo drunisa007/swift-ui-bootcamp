@@ -15,6 +15,7 @@
 		53E9D87327428B7F006AA5AB /* swiftui_bootcampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E9D87227428B7F006AA5AB /* swiftui_bootcampUITests.swift */; };
 		53E9D87527428B7F006AA5AB /* swiftui_bootcampUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E9D87427428B7F006AA5AB /* swiftui_bootcampUITestsLaunchTests.swift */; };
 		53E9D88227428BBC006AA5AB /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E9D88127428BBC006AA5AB /* TextBootCamp.swift */; };
+		53E9D8842742C9E4006AA5AB /* ShapeBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E9D8832742C9E4006AA5AB /* ShapeBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		53E9D87227428B7F006AA5AB /* swiftui_bootcampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_bootcampUITests.swift; sourceTree = "<group>"; };
 		53E9D87427428B7F006AA5AB /* swiftui_bootcampUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_bootcampUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		53E9D88127428BBC006AA5AB /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
+		53E9D8832742C9E4006AA5AB /* ShapeBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				53E9D85727428B7E006AA5AB /* swiftui_bootcampApp.swift */,
 				53E9D85927428B7E006AA5AB /* ContentView.swift */,
+				53E9D8832742C9E4006AA5AB /* ShapeBootCamp.swift */,
 				53E9D88127428BBC006AA5AB /* TextBootCamp.swift */,
 				53E9D85B27428B7F006AA5AB /* Assets.xcassets */,
 				53E9D85D27428B7F006AA5AB /* Preview Content */,
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53E9D8842742C9E4006AA5AB /* ShapeBootCamp.swift in Sources */,
 				53E9D85A27428B7E006AA5AB /* ContentView.swift in Sources */,
 				53E9D85827428B7E006AA5AB /* swiftui_bootcampApp.swift in Sources */,
 				53E9D88227428BBC006AA5AB /* TextBootCamp.swift in Sources */,
