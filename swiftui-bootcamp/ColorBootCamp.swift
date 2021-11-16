@@ -20,6 +20,20 @@ struct ColorBootCamp: View {
                 .foregroundColor(Color.black)
                 .font(.system(size: 30, weight: .semibold, design: .monospaced))
          }
+        
+//        Button(action: {
+//            print("this is great")
+//        }, label: {
+//            Text("Click me")
+//                .foregroundColor(.white)
+//        })
+//        .frame(width: 200, height: 50, alignment: .center)
+//        .background(Color.blue)
+//        .cornerRadius(20)
+//        .shadow(color: .blue.opacity(0.6), radius: 10, x: 0, y: 2)
+        
+       
+        
         }
      
 }
