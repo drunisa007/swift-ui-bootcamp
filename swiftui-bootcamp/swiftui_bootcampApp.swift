@@ -11,7 +11,7 @@ import SwiftUI
 struct swiftui_bootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UsingPreviousBootCampOne()
         }
     }
 }
